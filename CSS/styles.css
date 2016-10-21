@@ -2,12 +2,6 @@ h1 {
 	font-family: "Times New Roman", Times, serif;
 }
 
-
-
-.tableLayout3 {
-
-}
-
 td {
 	width: 50%;
 }
@@ -21,7 +15,6 @@ footer {
 	text-align: center;
 }
 
-
 #profilePic {
 	width: 20%;
 	height: 20%;
@@ -31,6 +24,7 @@ footer {
 	width: 5%;
 	height: 5%;
 }
+
 
 
 
